@@ -1,4 +1,18 @@
 body {
     background-color:#669999;
-    color: aliceblue;
+    color: White;
+}
+
+.tekstbox {
+    background-color: #8ED4D4;
+    width: 50pc;
+            height: 50px auto;
+            padding: 5px;
+            font-family: Arial, sans-serif;
+            font-size: 1.5rem;
+            text-align: justify;
+}
+
+.fotobox {
+    background-color: #8ED4D4;
 }
