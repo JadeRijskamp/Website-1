@@ -1,18 +1,37 @@
 body {
-    background-color:#669999;
+    background-color: dimgrey;
     color: White;
 }
 
 .tekstbox {
-    background-color: #8ED4D4;
+    background-color: #669999;
     width: 50pc;
             height: 50px auto;
             padding: 5px;
             font-family: Arial, sans-serif;
-            font-size: 1.5rem;
             text-align: justify;
 }
 
 .fotobox {
-    background-color: #8ED4D4;
+    background-color: dimgrey;
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+        }
+.tekstbox2 {
+    background-color: #669999;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 10px;
 }
+ #container {
+            display: flex;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+ #container1 {
+            display: flex;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
