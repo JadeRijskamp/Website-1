@@ -6,24 +6,22 @@ body {
 .tekstbox {
     background-color: #669999;
     width: 50pc;
-            height: 50px auto;
-            padding: 5px;
-            font-family: Arial, sans-serif;
-            text-align: justify;
+    height: 50px auto;
+    padding: 5px;
+    font-family: Arial, sans-serif;
+    text-align: justify;
 }
 
 .fotobox {
-    background-color: dimgrey;
-    display: flex;
-    padding: 10px;
-    margin-bottom: 10px;
+
         }
 .tekstbox2 {
     background-color: #669999;
-    color: white;
-    display: inline-block;
-    padding: 10px;
-    margin-bottom: 10px;
+    width: 50pc;
+    height: 50px auto;
+    padding: 5px;
+    font-family: Arial, sans-serif;
+    text-align: justify;
 }
  #container {
             display: flex;
@@ -35,3 +33,8 @@ body {
             padding: 10px;
             margin-bottom: 10px;
         }
+#container2 {
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+}
