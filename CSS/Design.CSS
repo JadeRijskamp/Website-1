@@ -3,14 +3,20 @@ body {
     color: rgba(0, 0, 0, 0.788);
 }
 
- #container {
+#container {
+    display: flex;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+ #container2 {
      display: flex;
      padding: 5px;
      margin-bottom: 15px;
 
 }
 
-#container2 {
+#container3 {
     display: flex;
     padding: 5px;
     margin-bottom: 5px;
@@ -20,5 +26,6 @@ body {
     background-color: lightyellow;
     padding: 5px;
     margin-bottom: 5px;
-    font-size: 3ch
+    font-size: 3ch;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
