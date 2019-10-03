@@ -1,0 +1,62 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+
+body {
+   background-color: white;
+}
+
+#boven {
+   background-color: #E5E1EE;
+   width: 80%;
+   height: 15%;
+}
+
+#container {
+    background-color: grey;
+    width: 80%;
+    height: 75%;
+    display: flex;
+}
+
+#menu {
+   background-color: #90BEDE;
+   width: 20%;
+   height: 100%;
+}
+
+#items {
+   background-color: ;
+   width: 60%;
+   height: 100%;
+}
+
+#fotos {
+   background-color: #90BEDE;
+   width: 20%;
+   height: 100%;
+}
+
+#berichten {
+    background-color: white;
+    width: 90%;
+    height: 20%;
+    margin: 5%;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 30px;
+}
+
+ul a {
+    background-color: rgb(218, 217, 217);
+    display: block;
+    text-decoration: none;
+    text-align: right;
+    color: white;
+    margin-top: 4px;
+    padding: 10px;
+}
