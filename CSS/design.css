@@ -5,7 +5,7 @@ html, body {
 
 
 body {
-   background-color: white;
+   background-color: rgb(139, 139, 139);
 }
 
 #boven {
@@ -28,7 +28,7 @@ body {
 }
 
 #items {
-   background-color: ;
+   background-color: #669BB3;
    width: 60%;
    height: 100%;
 }
