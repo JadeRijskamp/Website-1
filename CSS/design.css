@@ -6,10 +6,14 @@ html, body {
 
 body {
    background-color: rgb(139, 139, 139);
+   color: #A1D5ED;
+   text-align: center;
+   font-size: 50px;
+   margin: 0;
 }
 
 #boven {
-   background-color: #E5E1EE;
+   background-color: white;
    width: 80%;
    height: 15%;
 }
@@ -22,25 +26,25 @@ body {
 }
 
 #menu {
-   background-color: #90BEDE;
+   background-color: #A1D5ED;
    width: 20%;
    height: 100%;
 }
 
 #items {
-   background-color: #669BB3;
+   background-color: white;
    width: 60%;
    height: 100%;
 }
 
 #fotos {
-   background-color: #90BEDE;
+   background-color: #A1D5ED;
    width: 20%;
    height: 100%;
 }
 
 #berichten {
-    background-color: white;
+    background-color: #DFE2E8;
     width: 90%;
     height: 20%;
     margin: 5%;
@@ -52,7 +56,7 @@ ul {
 }
 
 ul a {
-    background-color: rgb(218, 217, 217);
+    background-color: #DFE2E8;
     display: block;
     text-decoration: none;
     text-align: right;
