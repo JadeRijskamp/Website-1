@@ -2,16 +2,16 @@ html, body {
     height: 100%;
 }
 
-
 body {
    background-color: rgb(139, 139, 139);
-   color: #A1D5ED;
+   color: #dcb340;
    text-align: center;
    font-size: 50px;
 }
 
 #boven {
    background-color: white;
+   color: #dcb340;
    margin: 5px;
 }
 
@@ -22,24 +22,25 @@ body {
 }
 
 #menu {
-   background-color: white;
+   background-color: #DFE2E8;
+   color: #dcb340;
    width: 20%;
    height: 100%;
    margin: 5px;
 }
 
 #items {
-   background-color: white;
+   background-color: #DFE2E8;
    width: 100%;
    height: 100%;
    margin: 5px;
 }
 
 #berichten {
-    background-color: #DFE2E8;
+    background-color: white;
+    color: #dcb340;
     height: 30%;
     margin: 10px;
-    color:  rgb(139, 139, 139);
     text-align: left;
     font-size: 30px;
 }
@@ -50,11 +51,11 @@ ul {
 }
 
 ul a {
-    background-color: #DFE2E8;
+    background-color: white;
     display: block;
     text-decoration: none;
     text-align: right;
-    color: rgb(139, 139, 139);
+    color: #dcb340;
     margin-top: 4px;
     padding: 10px;
 }
@@ -65,5 +66,14 @@ h1 {
 
 h3 {
     margin: 0px;
-    padding: 5px;
+    padding: 10px;
+}
+
+h4 {
+    margin: 0;
+    padding: 10px;
+}
+p {
+    margin: 0;
+    padding: 10px;
 }
