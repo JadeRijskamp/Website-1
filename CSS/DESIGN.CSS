@@ -51,6 +51,14 @@ body {
     color: #c13232;
     text-align: left;
     font-size: 30px;
+}
+
+#berichten3 {
+    background-color: white;
+    margin: 10px;
+    color: #c13232;
+    text-align: left;
+    font-size: 30px;
     display: flex;
     padding: 10px;
     margin-bottom: 5px;
