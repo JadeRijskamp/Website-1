@@ -59,7 +59,7 @@ body {
     color: #c13232;
     text-align: left;
     font-size: 30px;
-    display: flex;
+    display: contents;
     padding: 10px;
     margin-bottom: 5px;
 }
